@@ -139,7 +139,7 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.domainname.chrisgmz.nomoredomainsmonster.ru/');
+  const api = new Api('https://api.domainname.chrisgmz.nomoredomainsmonster.ru');
   
   export default api;
   
